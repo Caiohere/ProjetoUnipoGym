@@ -8,3 +8,10 @@
 2025-02-26 20:04:44,161 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-02-26 20:04:44,169 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\caioh\ProjetoUnipoGym\Backend\UnipoGym\src\test\resources
 2025-02-26 20:08:33,346 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:teste:0.0.1-SNAPSHOT @ C:\Users\caioh\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\projeto-springbootjpa\pom.xml.
+2025-02-26 20:08:34,045 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-02-26 20:08:34,065 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-26 20:08:34,070 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\caioh\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\projeto-springbootjpa\src\test\resources
+2025-02-26 20:08:35,296 [Worker-8: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:teste:0.0.1-SNAPSHOT @ C:\Users\caioh\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\projeto-springbootjpa\pom.xml.
+2025-02-26 20:08:35,489 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-02-26 20:08:35,513 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-26 20:08:35,524 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\caioh\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\projeto-springbootjpa\src\test\resources
